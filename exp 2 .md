@@ -19,7 +19,11 @@ Speed
 User experience
 
 ## Algorithm
+[exp 2.pdf](https://github.com/user-attachments/files/22987989/exp.2.pdf)
 
-## Result
+## ResultT
+the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task is accompalished.
+
+
 
 
