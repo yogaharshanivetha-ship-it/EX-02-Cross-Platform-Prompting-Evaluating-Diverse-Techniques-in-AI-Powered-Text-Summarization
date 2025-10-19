@@ -19,7 +19,9 @@ Speed
 User experience
 
 ## Algorithm
+[exp 2.pdf](https://github.com/user-attachments/files/22988176/exp.2.pdf)
 
 ## Result
+The effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
 
